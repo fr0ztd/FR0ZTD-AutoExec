@@ -46,7 +46,7 @@ It integrates personal gameplay optimizations, enhanced scripts, and custom bind
 
 Each modification has been carefully chosen and tested to ensure optimal performance and gameplay satisfaction.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_code.png)
+![FR0ZTD AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_code.png)
 
 <p align="right">
 <sub>(Preview)</sub>
@@ -117,7 +117,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ## Binds
 
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
+![FR0ZTD AutoExec Binds](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
 
 ## Wiki
 
