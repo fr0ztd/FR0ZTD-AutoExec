@@ -131,7 +131,7 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 
 ## Support
 
-Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
+This config is my own personal setup and is not supported. It's shared for those interested, but I won't be providing any support or assistance.
 
 ## License
 
