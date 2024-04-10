@@ -6,7 +6,7 @@
 <h4 align="center">A personalized and enhanced Counter-Strike 2 config, optimized for my gaming style.</h4>
 
 <p align="center">
-    <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/master">
+    <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main">
     <img src="https://img.shields.io/github/last-commit/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
     <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/issues">
@@ -46,7 +46,7 @@ It integrates personal gameplay optimizations, enhanced scripts, and custom bind
 
 Each modification has been carefully chosen and tested to ensure optimal performance and gameplay satisfaction.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/master/fr0ztd_autoexec_code.png)
+![ArminC AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_code.png)
 
 <p align="right">
 <sub>(Preview)</sub>
@@ -79,7 +79,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
 
-- Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
+- Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
 
@@ -117,19 +117,11 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ## Binds
 
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/master/fr0ztd_autoexec_binds.png)
+![ArminC AutoExec Binds](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
 
 ## Wiki
 
 Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
-
-## Contributing
-
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
-
-## Deprecated
-
-Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
