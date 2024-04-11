@@ -3,7 +3,7 @@
   <a href="https://github.com/fr0ztd/FR0ZTD-AutoExec/archive/main.zip"><img src="https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd-autoexec.webp" alt="FR0ZTD AutoExec"></a>
 </h1>
 
-<h4 align="center">A personalized and enhanced Counter-Strike 2 config, optimized for my gaming style.</h4>
+<h4 align="center">A personalized and enhanced Counter-Strike 2 autoexec config, optimized for my play style.</h4>
 
 <p align="center">
     <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main">
