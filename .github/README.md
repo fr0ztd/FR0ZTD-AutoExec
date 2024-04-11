@@ -69,7 +69,7 @@ Each modification has been carefully chosen and tested to ensure optimal perform
 > The binds system has changed. Instead of doing the name of the key, there are scancodes assigned per key.
 
 > [!NOTE]  
-> The crosshair is designed for a 1920x1080 resolution; in other case, the experience may vary.
+> The crosshair is designed for a 1280x960 **stretch** resolution; in other case, the experience may vary.
 
 ## Updating
 
