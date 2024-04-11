@@ -27,8 +27,6 @@
   <a href="#symbols">Symbols</a> •
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
