@@ -45,7 +45,7 @@ It comes filled with little optimizations such as **network capacity**, overall 
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/cs2_autoexec_code.png)
+![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
