@@ -25,6 +25,7 @@
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#symbols">Symbols</a> •
+  <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#deprecated">Deprecated</a> •
@@ -109,6 +110,9 @@ When a **new version** is out, you have **two methods** to _update_:
      /\
      ||: Select any float/decimal value within the provided range
      \/
+
+## Binds
+![FR0ZTD AutoExec Binds]([https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main](https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
 
 ## Wiki
 
