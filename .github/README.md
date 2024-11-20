@@ -39,7 +39,7 @@
 <tr>
 <td>
   
-**FR0ZTD's CS2 AutoExec**, a _fork_ of the **ArminC AutoExec**, is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
+**FR0ZTD AutoExec**, a _fork_ of the **ArminC AutoExec**, is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
 It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
@@ -134,7 +134,7 @@ Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/
 
 ## Support
 
-This config is my own personal setup and is not supported. It's shared for those interested, but I won't be providing any support or assistance. You can teach out to ArmynC via the **[profile addresses](https://github.com/ArmynC)**.
+This config is my own personal setup and is not supported. It's shared for those interested, but I won't be providing any support or assistance.
 
 ## License
 
