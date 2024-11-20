@@ -84,7 +84,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ## Features
 
-|                            | 🔰 FR0ZTD's CS2 AutoExec | ◾ Other Configs |
+|                            | 🔰 FR0ZTD AutoExec | ◾ Other Configs |
 | -------------------------- | :----------------------: | :--------------: |
 | Optimized values           |            ✔️            |        〰️        |
 | Useful scripts             |            ✔️            |        〰️        |
