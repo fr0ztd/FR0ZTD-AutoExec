@@ -113,10 +113,6 @@ When a **new version** is out, you have **two methods** to _update_:
      ||: Select any float/decimal value within the provided range
      \/
 
-## Binds
-
-![CS2 AutoExec Binds](https://raw.githubusercontent.com/FR0ZTD/CS2-AutoExec/main/cs2_autoexec_binds.png)
-
 ## Wiki
 
 Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
