@@ -112,7 +112,7 @@ When a **new version** is out, you have **two methods** to _update_:
      \/
 
 ## Binds
-![FR0ZTD AutoExec Binds]([https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main](https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
+![FR0ZTD AutoExec Binds](https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
 
 ## Wiki
 
