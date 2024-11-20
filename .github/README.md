@@ -46,7 +46,6 @@ It comes filled with little optimizations such as **network capacity**, overall 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
 ![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/CS2-AutoExec/main/cs2_autoexec_code.png)
-
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -58,7 +57,6 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
-
 1. **[Download](https://github.com/fr0ztd/CS2-AutoExec/archive/main.zip)** the latest version of the config.
 2. Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
    `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
