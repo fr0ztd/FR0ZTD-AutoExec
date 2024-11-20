@@ -62,8 +62,8 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 2. Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
 `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
-   - If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
-   - For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
+   * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
+   * For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
 
 > [!IMPORTANT]  
 > The binds system has changed. Instead of doing the name of the key, there are scancodes assigned per key.
@@ -76,28 +76,28 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
-- Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
+* Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
-- **Delete everything** (or **replace the files** when it asks).
-- **Redo** the [installation](https://github.com/FR0ZTD/FR0ZTD-AutoExec#installation) steps.
-- _After setup_, **change your preference** settings back (if that is the case).
+* **Delete everything** (or **replace the files** when it asks).
+* **Redo** the [installation](https://github.com/FR0ZTD/FR0ZTD-AutoExec#installation) steps.
+* _After setup_, **change your preference** settings back (if that is the case).
 
 ## Features
 
-|                            | 🔰 FR0ZTD AutoExec | ◾ Other Configs |
-| -------------------------- | :----------------------: | :--------------: |
-| Optimized values           |            ✔️            |        〰️        |
-| Useful scripts             |            ✔️            |        〰️        |
-| Enabled in-game advantages |            ✔️            |        〰️        |
-| Documented commands        |            ✔️            |        ❌        |
-| No misconfigured commands  |            ✔️            |        ❌        |
-| Professional info sources  |            ✔️            |        ❌        |
-| Clean sheet/template       |            ✔️            |        ❌        |
-| Easy to customize          |            ✔️            |        ❌        |
-| Categorized by functions   |            ✔️            |        ❌        |
-| New commands/values        |            ✔️            |        ❌        |
-| No old command leftovers   |            ✔️            |        ❌        |
+|                            | 🔰 FR0ZTD AutoExec  | ◾ Other Configs |
+| -------------------------- | :-----------------: | :---------------: |
+| Optimized values           |         ✔️         |        〰️        |
+| Useful scripts             |         ✔️         |        〰️        |
+| Enabled in-game advantages |         ✔️         |        〰️        |
+| Documented commands        |         ✔️         |        ❌        |
+| No misconfigured commands  |         ✔️         |        ❌        |
+| Professional info sources  |         ✔️         |        ❌        |
+| Clean sheet/template       |         ✔️         |        ❌        |
+| Easy to customize          |         ✔️         |        ❌        |
+| Categorized by functions   |         ✔️         |        ❌        |
+| New commands/values        |         ✔️         |        ❌        |
+| No old command leftovers   |         ✔️         |        ❌        |
 
 ## Symbols
 
@@ -128,9 +128,9 @@ Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png) |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-|                                                        **ArminC**                                                         |                                         **The community**                                         |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
+|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
+|                                                         **ArminC**                                                         |                                            **The community**                                           |
 
 ## Support
 
