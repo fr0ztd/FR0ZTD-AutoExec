@@ -75,11 +75,9 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
-
 - Check the new [commits](https://github.com/FR0ZTD/CS2-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
-
 - **Delete everything** (or **replace the files** when it asks).
 - **Redo** the [installation](https://github.com/FR0ZTD/CS2-AutoExec#installation) steps.
 - _After setup_, **change your preference** settings back (if that is the case).
