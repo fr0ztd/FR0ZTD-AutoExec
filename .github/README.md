@@ -1,22 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/fr0ztd/CS2-AutoExec/archive/main.zip"><img src="https://raw.githubusercontent.com/fr0ztd/CS2-AutoExec/main/cs2_autoexec_banner.webp" alt="CS2 AutoExec"></a>
+  <a href="https://github.com/fr0ztd/FR0ZTD-AutoExec/archive/main.zip"><img src="https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd_autoexec_banner.webp" alt="CS2 AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 <p align="center">
-    <a href="https://github.com/FR0ZTD/CS2-AutoExec/commits/main">
-    <img src="https://img.shields.io/github/last-commit/FR0ZTD/CS2-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main">
+    <img src="https://img.shields.io/github/last-commit/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://github.com/FR0ZTD/CS2-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/FR0ZTD/CS2-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/issues">
+    <img src="https://img.shields.io/github/issues-raw/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/FR0ZTD/CS2-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/FR0ZTD/CS2-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this Counter-Strike 2 autoexec:&url=https%3A%2F%2Fgithub.com%2FFR0ZTD%2FCS2-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/FR0ZTD/CS2-AutoExec.svg?style=flat-square&logo=twitter"
+    <a href="https://twitter.com/intent/tweet?text=Try this Counter-Strike 2 autoexec:&url=https%3A%2F%2Fgithub.com%2FFR0ZTD%2FFR0ZTD-AutoExec">
+    <img src="https://img.shields.io/twitter/url/https/github.com/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p>
       
@@ -45,7 +45,7 @@ It comes filled with little optimizations such as **network capacity**, overall 
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/CS2-AutoExec/main/cs2_autoexec_code.png)
+![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/cs2_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -57,7 +57,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
-1. **[Download](https://github.com/fr0ztd/CS2-AutoExec/archive/main.zip)** the latest version of the config.
+1. **[Download](https://github.com/fr0ztd/FR0ZTD-AutoExec/archive/main.zip)** the latest version of the config.
 2. Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
    `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
@@ -75,11 +75,11 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
-- Check the new [commits](https://github.com/FR0ZTD/CS2-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
+- Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
 - **Delete everything** (or **replace the files** when it asks).
-- **Redo** the [installation](https://github.com/FR0ZTD/CS2-AutoExec#installation) steps.
+- **Redo** the [installation](https://github.com/FR0ZTD/FR0ZTD-AutoExec#installation) steps.
 - _After setup_, **change your preference** settings back (if that is the case).
 
 ## Features
