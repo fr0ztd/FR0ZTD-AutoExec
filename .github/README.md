@@ -3,7 +3,7 @@
   <a href="https://github.com/fr0ztd/CS2-AutoExec/archive/main.zip"><img src="https://raw.githubusercontent.com/fr0ztd/CS2-AutoExec/main/cs2_autoexec_banner.webp" alt="CS2 AutoExec"></a>
 </h1>
 
-<h4 align="center">>A high-quality Counter-Strike 2 config built for gamers.</h4>
+<h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 <p align="center">
     <a href="https://github.com/FR0ZTD/CS2-AutoExec/commits/main">
