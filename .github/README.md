@@ -3,7 +3,7 @@
   <a href="https://github.com/fr0ztd/CS2-AutoExec/archive/main.zip"><img src="https://raw.githubusercontent.com/fr0ztd/CS2-AutoExec/main/cs2_autoexec_banner.webp" alt="CS2 AutoExec"></a>
 </h1>
 
-<h4 align="center">A personalized and enhanced Counter-Strike 2 autoexec config, optimized for my play style.</h4>
+<h4 align="center">>A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 <p align="center">
     <a href="https://github.com/FR0ZTD/CS2-AutoExec/commits/main">
@@ -25,8 +25,9 @@
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
@@ -38,11 +39,11 @@
 <tr>
 <td>
   
-**FR0ZTD's CS2 AutoExec** is a _fork_ of the **ArminC AutoExec** tailored specifically to my preferences for **Counter-Strike 2**.
+**FR0ZTD's CS2 AutoExec**, a _fork_ of the **ArminC AutoExec**, is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
-It integrates personal gameplay optimizations, enhanced scripts, and custom binds, offering a unique competitive edge.
+It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
-Each modification has been carefully chosen and tested to ensure optimal performance and gameplay satisfaction.
+Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
 ![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/CS2-AutoExec/main/cs2_autoexec_code.png)
 
@@ -117,6 +118,14 @@ When a **new version** is out, you have **two methods** to _update_:
 
 Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
 
+## Contributing
+
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
+
+## Deprecated
+
+Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
+
 ## Credits
 
 | [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png) |
@@ -125,7 +134,7 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 
 ## Support
 
-This config is my own personal setup and is not supported. It's shared for those interested, but I won't be providing any support or assistance.
+This config is my own personal setup and is not supported. It's shared for those interested, but I won't be providing any support or assistance. You can teach out to ArmynC via the **[profile addresses](https://github.com/ArmynC)**.
 
 ## License
 
