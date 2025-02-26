@@ -15,9 +15,6 @@
     <a href="https://github.com/FR0ZTD/FR0ZTD-AutoExec/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this Counter-Strike 2 autoexec:&url=https%3A%2F%2Fgithub.com%2FFR0ZTD%2FFR0ZTD-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/FR0ZTD/FR0ZTD-AutoExec.svg?style=flat-square&logo=twitter"
-         alt="GitHub tweet">
 </p>
       
 <p align="center">
@@ -25,10 +22,8 @@
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
@@ -47,6 +42,7 @@ It comes filled with little optimizations such as **network capacity**, overall 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
 ![CS2 AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/main/fr0ztd_autoexec_code.png)
+
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -58,12 +54,13 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
+
 1. **[Download](https://github.com/fr0ztd/FR0ZTD-AutoExec/archive/main.zip)** the latest version of the config.
 2. Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
-`\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
+   `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
-   * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
-   * For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
+   - If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
+   - For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
 
 > [!IMPORTANT]  
 > The binds system has changed. Instead of doing the name of the key, there are scancodes assigned per key.
@@ -76,17 +73,19 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
-* Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
+
+- Check the new [commits](https://github.com/FR0ZTD/FR0ZTD-AutoExec/commits/main) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
-* **Delete everything** (or **replace the files** when it asks).
-* **Redo** the [installation](https://github.com/FR0ZTD/FR0ZTD-AutoExec#installation) steps.
-* _After setup_, **change your preference** settings back (if that is the case).
+
+- **Delete everything** (or **replace the files** when it asks).
+- **Redo** the [installation](https://github.com/FR0ZTD/FR0ZTD-AutoExec#installation) steps.
+- _After setup_, **change your preference** settings back (if that is the case).
 
 ## Features
 
-|                            | 🔰 FR0ZTD AutoExec  | ◾ Other Configs |
-| -------------------------- | :-----------------: | :---------------: |
+|                            | 🔰 FR0ZTD AutoExec | ◾ Other Configs |
+| -------------------------- | :----------------: | :--------------: |
 | Optimized values           |         ✔️         |        〰️        |
 | Useful scripts             |         ✔️         |        〰️        |
 | Enabled in-game advantages |         ✔️         |        〰️        |
@@ -111,9 +110,6 @@ When a **new version** is out, you have **two methods** to _update_:
      ||: Select any float/decimal value within the provided range
      \/
 
-## Binds
-![FR0ZTD AutoExec Binds](https://raw.githubusercontent.com/fr0ztd/FR0ZTD-AutoExec/main/fr0ztd_autoexec_binds.png)
-
 ## Wiki
 
 Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
@@ -122,15 +118,11 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
-## Deprecated
-
-Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
-
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
-|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                         **ArminC**                                                         |                                            **The community**                                           |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+|                                                        **ArminC**                                                         |                                         **The community**                                         |
 
 ## Support
 
