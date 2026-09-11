@@ -102,7 +102,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ## Wiki
 
-Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/FR0ZTD/FR0ZTD-AutoExec/wiki/).
+Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArminC/ArminC-AutoExec/wiki/).
 
 ## Contributing
 
