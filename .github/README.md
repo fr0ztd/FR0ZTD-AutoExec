@@ -29,13 +29,13 @@
 <tr>
 <td>
   
-**ArminC AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
+**FR0ZTD AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
 It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/master/arminc_autoexec_code.png)
+![FR0ZTD AutoExec Code](https://raw.githubusercontent.com/FR0ZTD/FR0ZTD-AutoExec/master/arminc_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
